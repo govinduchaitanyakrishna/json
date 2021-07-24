@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name":Van Helsing,
+        "name":"Van Helsing",
         "category_id":1,
         "Age":18,
         "image":"https://i.ibb.co/XZR8C9V/van-hastling.jpg",
