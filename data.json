@@ -20,7 +20,7 @@
         "name":"Money Heist",
         "category_id":1,
         "age":18,
-        "image":,
+        "image":"https://i.ibb.co/J5xPjGK/Money-Heist.jpg",
         "year":2020,
     }
     {
@@ -28,7 +28,7 @@
         "name":"Jurasic Park",
         "category_id":1,
         "age":16,
-        "image":,
+        "image":"https://i.ibb.co/TwJqbPJ/Jurasic-Park.jpg",
         "year":2001,
     }
     {
@@ -36,7 +36,7 @@
         "name":"Transformers revenge of the fallen",
         "category_id":1,
         "age":13,
-        "image":,
+        "image":"https://i.ibb.co/wYsqjQc/Transformers-revenge-of-the-fallen.jpg",
         "year":2009,
     }
     {
@@ -44,7 +44,7 @@
         "name":"War Craft",
         "category_id":1,
         "age":18,
-        "image":,
+        "image":"https://i.ibb.co/rZPBWzc/War-Craft.jpg",
         "year":2016,
     }
     {
@@ -52,7 +52,7 @@
         "name":"never have i ever",
         "category_id":1,
         "age":13,
-        "image":,
+        "image":"https://i.ibb.co/fH6CpQP/never-have-i-ever.jpg",
         "year":2021,
     }
     {
@@ -60,7 +60,7 @@
         "name":"Walking Dead",
         "category_id":1,
         "age":18,
-        "image":,
+        "image":"https://i.ibb.co/CtWMPSx/Walking-Dead.jpg" ,
         "year":2019,
     }
     {
@@ -68,7 +68,7 @@
         "name":"narvuto",
         "category_id":1,
         "age":16,
-        "image":,
+        "image":"https://i.ibb.co/GPDQ4sD/narvuto.jpg",
         "year":2006,
     }
     {
@@ -76,7 +76,7 @@
         "name":"fear street part three 1666",
         "category_id":1,
         "age":18,
-        "image":,
+        "image":"https://i.ibb.co/TMWR01W/Fear-Street-3-1666.jpg",
         "year":2021,
     }
     {
@@ -84,7 +84,7 @@
         "name":"The Vampire Diaries",
         "category_id":1,
         "age":18,
-        "image":,
+        "image":"https://i.ibb.co/DtYyn54/The-Vampire-Diaries.jpg",
         "year":2016,
     }
     {
@@ -92,7 +92,7 @@
         "name":"Chernobyl 1986",
         "category_id":1,
         "age":13,
-        "image":,
+        "image":"https://i.ibb.co/dLrGbNQ/Chernobyl-1986.jpg",
         "year":2021,
     }
     {
@@ -100,7 +100,7 @@
         "name":"The 100",
         "category_id":1,
         "age":18,
-        "image":,
+        "image":"https://i.ibb.co/NKkCnB1/The-100.png" ,
         "year":2020,
     }
     {
@@ -108,7 +108,7 @@
         "name":"Teen wolf",
         "category_id":1,
         "age":18,
-        "image":,
+        "image":"https://i.ibb.co/7rht0Zr/teenwolf.jpg" ,
         "year":2016,
     }
     {
@@ -116,7 +116,7 @@
         "name":"BumbleeBee",
         "category_id":1,
         "age":13,
-        "image":,
+        "image":"https://i.ibb.co/m89FMbV/Bumblee-Bee.jpg",
         "year":2018,
     }
     {
@@ -124,7 +124,7 @@
         "name":"Fear street part two 1978",
         "category_id":1,
         "age":18,
-        "image":,
+        "image":"https://i.ibb.co/GHQM39B/Fear-street-part-two-1978.jpg",
         "year":2021,
     }
     {
@@ -132,7 +132,7 @@
         "name":"Edge of tomarrow",
         "category_id":1,
         "age":16,
-        "image":,
+        "image":"https://i.ibb.co/NmX4dxs/Edge-of-tomarrow.jpg" ,
         "year":2014,
     }
     {
@@ -140,7 +140,7 @@
         "name":"Journey2 the mysterious island",
         "category_id":1,
         "age":13,
-        "image":,
+        "image":"https://i.ibb.co/b71CVTS/Journey2-the-mysterious-island.jpg",
         "year":2012,
     }
     {
@@ -148,7 +148,7 @@
         "name":"Jack the jaint slayer",
         "category_id":1,
         "age":16,
-        "image":,
+        "image":"https://i.ibb.co/VBknd4p/Jack-the-jaint-slayer.jpg" ,
         "year":2013,
     }
     {
@@ -156,7 +156,7 @@
         "name":"the mummy returns",
         "category_id":1,
         "age":13,
-        "image":,
+        "image":"https://i.ibb.co/dPByqPQ/the-mummy-returns.jpg",
         "year":2001,
     }
     {
@@ -164,7 +164,7 @@
         "name":"jumanji welcome to jungle",
         "category_id":1,
         "age":13,
-        "image":,
+        "image":"https://i.ibb.co/TbMpbFP/jumanji-welcome-to-jungle.jpg",
         "year":2017,
     }
     {
@@ -172,7 +172,7 @@
         "name":"battleship",
         "category_id":1,
         "age":13,
-        "image":,
+        "image":"https://i.ibb.co/X7yhsrk/battleship.jpg" ,
         "year":2012,
     }
     {
@@ -180,7 +180,7 @@
         "name":"sexlife",
         "category_id":1,
         "age":18,
-        "image":,
+        "image":"https://i.ibb.co/DLdM1p8/sexlife.jpg" ,
         "year":2021,
     }
 ]
