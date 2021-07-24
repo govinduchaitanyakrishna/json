@@ -1,0 +1,86 @@
+[
+    {
+        "id":1,
+        "category":"Tv Dramas"
+    }
+    {
+        "id":2,
+        "category":"Trending Now"
+    }
+    {
+        "id":3,
+        "category":"US Movies"
+    }
+    {
+        "id":4,
+        "category":"Made in Korea"
+    }
+    {
+        "id":5,
+        "category":"Thrillers and horrer"
+    }
+    {
+        "id":6,
+        "category":"Futuristic sci-Fi"
+    }
+    {
+        "id":7,
+        "category":"Tv Sci-Fi and horrer "
+    }
+    {
+        "id":8,
+        "category":"sci-fi movies"
+    }
+    {
+        "id":9,
+        "category":"Award winning tv shows "
+    }
+    {
+        "id":10,
+        "category":"Exiting Dramas"
+    }
+    {
+        "id":11,
+        "category":"International movies"
+    }
+    {
+        "id":12,
+        "category":"latin america tv shows"
+    }
+    {
+        "id":13,
+        "category":"Father and son Relation ship movies"
+    }
+    {
+        "id":14,
+        "category":"assian movies and tv"
+    }
+    {
+        "id":15,
+        "category":"Zombies tv shows"
+    }
+    {
+        "id":16,
+        "category":"Romantic Movies"
+    }
+    {
+        "id":17,
+        "category":"Scary movies"
+    }
+    {
+        "id":18,
+        "category":"Exciting tv sci-fi and fantasy"
+    }
+    {
+        "id":19,
+        "category":"Asian movies"
+    }
+    {
+        "id":20,
+        "category":"Telugu movies"
+    }
+    {
+        "id":21,
+        "category":"Kids"
+    }
+]

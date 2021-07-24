@@ -1,0 +1,186 @@
+[
+    {
+        "id": 1,
+        "name":Van Helsing,
+        "category_id":1,
+        "Age":18,
+        "image":"https://i.ibb.co/XZR8C9V/van-hastling.jpg",
+        "year":2021,
+    }
+    {
+        "id":2,
+        "name":"The good Docter",
+        "category_id":1,
+        "age":18,
+        "image":"https://i.ibb.co/h8fnmrR/the-good-docter.jpg",
+        "year":2019,
+    }
+    {
+        "id":3,
+        "name":"Money Heist",
+        "category_id":1,
+        "age":18,
+        "image":,
+        "year":2020,
+    }
+    {
+        "id":4,
+        "name":"Jurasic Park",
+        "category_id":1,
+        "age":16,
+        "image":,
+        "year":2001,
+    }
+    {
+        "id":5,
+        "name":"Transformers revenge of the fallen",
+        "category_id":1,
+        "age":13,
+        "image":,
+        "year":2009,
+    }
+    {
+        "id":6,
+        "name":"War Craft",
+        "category_id":1,
+        "age":18,
+        "image":,
+        "year":2016,
+    }
+    {
+        "id":7,
+        "name":"never have i ever",
+        "category_id":1,
+        "age":13,
+        "image":,
+        "year":2021,
+    }
+    {
+        "id":8,
+        "name":"Walking Dead",
+        "category_id":1,
+        "age":18,
+        "image":,
+        "year":2019,
+    }
+    {
+        "id":9,
+        "name":"narvuto",
+        "category_id":1,
+        "age":16,
+        "image":,
+        "year":2006,
+    }
+    {
+        "id":10,
+        "name":"fear street part three 1666",
+        "category_id":1,
+        "age":18,
+        "image":,
+        "year":2021,
+    }
+    {
+        "id":11,
+        "name":"The Vampire Diaries",
+        "category_id":1,
+        "age":18,
+        "image":,
+        "year":2016,
+    }
+    {
+        "id":12,
+        "name":"Chernobyl 1986",
+        "category_id":1,
+        "age":13,
+        "image":,
+        "year":2021,
+    }
+    {
+        "id":13,
+        "name":"The 100",
+        "category_id":1,
+        "age":18,
+        "image":,
+        "year":2020,
+    }
+    {
+        "id":14,
+        "name":"Teen wolf",
+        "category_id":1,
+        "age":18,
+        "image":,
+        "year":2016,
+    }
+    {
+        "id":15,
+        "name":"BumbleeBee",
+        "category_id":1,
+        "age":13,
+        "image":,
+        "year":2018,
+    }
+    {
+        "id":16,
+        "name":"Fear street part two 1978",
+        "category_id":1,
+        "age":18,
+        "image":,
+        "year":2021,
+    }
+    {
+        "id":17,
+        "name":"Edge of tomarrow",
+        "category_id":1,
+        "age":16,
+        "image":,
+        "year":2014,
+    }
+    {
+        "id":18,
+        "name":"Journey2 the mysterious island",
+        "category_id":1,
+        "age":13,
+        "image":,
+        "year":2012,
+    }
+    {
+        "id":19,
+        "name":"Jack the jaint slayer",
+        "category_id":1,
+        "age":16,
+        "image":,
+        "year":2013,
+    }
+    {
+        "id":20,
+        "name":"the mummy returns",
+        "category_id":1,
+        "age":13,
+        "image":,
+        "year":2001,
+    }
+    {
+        "id":21,
+        "name":"jumanji welcome to jungle",
+        "category_id":1,
+        "age":13,
+        "image":,
+        "year":2017,
+    }
+    {
+        "id":22,
+        "name":"battleship",
+        "category_id":1,
+        "age":13,
+        "image":,
+        "year":2012,
+    }
+    {
+        "id":23,
+        "name":"sexlife",
+        "category_id":1,
+        "age":18,
+        "image":,
+        "year":2021,
+    }
+]
