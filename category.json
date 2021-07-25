@@ -1,86 +1,62 @@
 [
     {
         "id":1,
-        "category":"Tv Dramas"
+        "category":"handpicked movies",
     }
     {
         "id":2,
-        "category":"Trending Now"
+        "category":"aha originals",
     }
     {
         "id":3,
-        "category":"US Movies"
+        "category":"most watched on aha",
     }
     {
         "id":4,
-        "category":"Made in Korea"
+        "category":"latest on aha",
     }
     {
         "id":5,
-        "category":"Thrillers and horrer"
+        "category":"newly added library",
     }
     {
         "id":6,
-        "category":"Futuristic sci-Fi"
+        "category":"free movies",
     }
     {
         "id":7,
-        "category":"Tv Sci-Fi and horrer "
+        "category":"recomended episodes",
     }
     {
         "id":8,
-        "category":"sci-fi movies"
+        "category":"action",
     }
     {
         "id":9,
-        "category":"Award winning tv shows "
+        "category":"drama",
     }
     {
         "id":10,
-        "category":"Exiting Dramas"
+        "category":"crime",
     }
     {
         "id":11,
-        "category":"International movies"
+        "category":"romance",
     }
     {
         "id":12,
-        "category":"latin america tv shows"
+        "category":"thriller",
     }
     {
         "id":13,
-        "category":"Father and son Relation ship movies"
+        "category":"comedy",
     }
     {
         "id":14,
-        "category":"assian movies and tv"
+        "category":"aha kids",
     }
     {
         "id":15,
-        "category":"Zombies tv shows"
-    }
-    {
-        "id":16,
-        "category":"Romantic Movies"
-    }
-    {
-        "id":17,
-        "category":"Scary movies"
-    }
-    {
-        "id":18,
-        "category":"Exciting tv sci-fi and fantasy"
-    }
-    {
-        "id":19,
-        "category":"Asian movies"
-    }
-    {
-        "id":20,
-        "category":"Telugu movies"
-    }
-    {
-        "id":21,
-        "category":"Kids"
+        "category":"aha shots",
     }
 ]

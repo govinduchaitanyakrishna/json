@@ -1,677 +1,227 @@
 [
     {
         "id": 1,
-        "name":"Van Helsing",
-        "category_id":2,
-        "Age":18,
-        "image":"https://i.ibb.co/XZR8C9V/van-hastling.jpg",
-        "year":2021,
+        "name":"Lisaa",
+        "category_id":1,
+        "Age":"13+",
+        "image":"",
+        "year":2019,
+        "info":"A woman decides to get her mother remarried and sets out to seek her grandparents' blessings. However, after arriving at their house, she discovers their murderous inclination and a haunting past"
     }
     {
-        "id":2,
-        "name":"The good Docter",
-        "category_id":2,
-        "age":18,
-        "image":"https://i.ibb.co/h8fnmrR/the-good-docter.jpg",
-        "year":2019,
+        "id": 2,
+        "name":"Khaki",
+        "category_id":1,
+        "Age":"13+",
+        "image":"",
+        "year":2017,
+        "info":"Enjoy Khaki full movie here : An honest police officer finds himself transferred again and again due to his sincerity. After his latest transfer, he comes across a file that involves a gang of ruthless thieves who loot and kill along the highway."
     }
     {
         "id":3,
-        "name":"Money Heist",
-        "category_id":2,
-        "age":18,
-        "image":"https://i.ibb.co/J5xPjGK/Money-Heist.jpg",
-        "year":2020,
+        "name":"andala rakshasi",
+        "category_id":1,
+        "age":7+,
+        "image":"",
+        "year":2012,
+        "info":"A wealthy man falls in love with a woman at first sight but his heart and hopes are broken when he learns that she loves another man. However, a chain of surprising events then changes all their lives forever."
     }
     {
         "id":4,
-        "name":"Jurasic Park",
-        "category_id":2,
-        "age":16,
-        "image":"https://i.ibb.co/TwJqbPJ/Jurasic-Park.jpg",
-        "year":2001,
+        "name":"eega",
+        "category_id":1,
+        "age":7+,
+        "image":"",
+        "year":2012,
+        "info":"A man loves a woman but is killed by another jealous man, who lusts after the woman. He is reincarnated as a fly and decides to avenge his death. He teams up with the woman to make the murderer's life a living hell."
     }
     {
         "id":5,
-        "name":"Transformers revenge of the fallen",
-        "category_id":2,
-        "age":13,
-        "image":"https://i.ibb.co/wYsqjQc/Transformers-revenge-of-the-fallen.jpg",
-        "year":2009,
+        "name":"fidaa",
+        "category_id":1,
+        "age":7+,
+        "image":,
+        "year":2017,
+        "info":"Enjoy Fidaa full movie here : Varun, an NRI medical student, and Bhanu, a vivacious, young woman, fall in love with each other. However, they face many personal differences that create complications in their relationship."
     }
     {
         "id":6,
-        "name":"War Craft",
-        "category_id":2,
-        "age":18,
-        "image":"https://i.ibb.co/rZPBWzc/War-Craft.jpg",
-        "year":2016,
+        "name":"adhurs",
+        "category_id":1,
+        "age":7+,
+        "image":,
+        "year":2010,
+        "info":"Enjoy Adhurs full movie here : Twin brothers are separated at birth; one is raised by their mother, while the other by a priest's family. They are unaware of each other's existence until one of them is abducted by criminals because of a misunderstanding. Will they ever meet ?"
     }
     {
         "id":7,
-        "name":"never have i ever",
-        "category_id":2,
-        "age":13,
-        "image":"https://i.ibb.co/fH6CpQP/never-have-i-ever.jpg",
-        "year":2021,
+        "name":"Yuddham sharanam",
+        "category_id":1,
+        "age":7+,
+        "image":,
+        "year":2017,
+        "info":"When his parents' corpses are found in a river under mysterious circumstances, Arjun sets out to investigate their deaths. On finding certain disturbing truths, he vows revenge on their killers."
     }
     {
         "id":8,
-        "name":"Walking Dead",
-        "category_id":2,
-        "age":18,
-        "image":"https://i.ibb.co/CtWMPSx/Walking-Dead.jpg" ,
-        "year":2019,
+        "name":"chavu kaburu chalaga",
+        "category_id":1,
+        "age":13+,
+        "image":,
+        "year":2021,
+        "info":"Enjoy Chaavu Kaburu Challaga full movie here : What happens when a mortuary van driver experiences love at first sight on seeing a widow when she is paying her last tributes to her deceased husband? Chaavu Kaburu Challaga is an emotional story you don't want to miss."
     }
     {
         "id":9,
-        "name":"narvuto",
-        "category_id":2,
-        "age":16,
-        "image":"https://i.ibb.co/GPDQ4sD/narvuto.jpg",
-        "year":2006,
+        "name":"sin",
+        "category_id":1,
+        "age":18+,
+        "image":,
+        "year":2020,
+        "info":"aught in an emotional turmoil over an abusive marriage and husband's extramarital affair, will a woman's love triumph over a man's lust? Inspired by the series “Hello” on Hoichoi, A story that hugs your heart."
     }
     {
         "id":10,
-        "name":"fear street part three 1666",
-        "category_id":2,
-        "age":18,
-        "image":"https://i.ibb.co/TMWR01W/Fear-Street-3-1666.jpg",
-        "year":2021,
+        "name":"krishna and his lila",
+        "category_id":1,
+        "age":13+,
+        "image":,
+        "year":2020,
+        "info":"Enjoy Krishna and His Leela Full movie here Tangled between two women, Krishna's confusing journey to understand love and relationships."
     }
     {
         "id":11,
-        "name":"The Vampire Diaries",
-        "category_id":2,
-        "age":18,
-        "image":"https://i.ibb.co/DtYyn54/The-Vampire-Diaries.jpg",
-        "year":2016,
+        "name":"zombie reddy",
+        "category_id":1,
+        "age":13+,
+        "image":,
+        "year":2021,
+        "info":"Set in the backdrop of rivalry between two villages in Rayalaseema, Zombie Reddy follows a group of friends who reunite two families amid a zombie attack."
     }
     {
         "id":12,
-        "name":"Chernobyl 1986",
-        "category_id":2,
-        "age":13,
-        "image":"https://i.ibb.co/dLrGbNQ/Chernobyl-1986.jpg",
-        "year":2021,
+        "name":"sam jam",
+        "category_id":1,
+        "age":7+,
+        "image":,
+        "year":2020,
+        "info":"From his biggest turning point in life to how it feels to be Tollywood's stylish star, Allu Arjun opens about his definition of style, unconditional love and his exciting experiences in life in this New Year special episode of Sam Jam."
     }
     {
         "id":13,
-        "name":"The 100",
-        "category_id":2,
-        "age":18,
-        "image":"https://i.ibb.co/NKkCnB1/The-100.png" ,
-        "year":2020,
-    }
-    {
-        "id":14,
-        "name":"Teen wolf",
-        "category_id":2,
-        "age":18,
-        "image":"https://i.ibb.co/7rht0Zr/teenwolf.jpg" ,
-        "year":2016,
+        "name":"thank you brother",
+        "category_id":1,
+        "age":13+,
+        "image":,
+        "year":2021,
+        "info":"hank You Brother' is about two strangers, a rich spoilt young man and a pregnant woman who get stuck in an elevator. The story reaches a twist when her labor pain begins while they still wait for help to arrive."
     }
     {
         "id":15,
-        "name":"BumbleeBee",
-        "category_id":2,
-        "age":13,
-        "image":"https://i.ibb.co/m89FMbV/Bumblee-Bee.jpg",
-        "year":2018,
+        "name":"anaganaga o athidhi",
+        "category_id":1,
+        "age":16+,
+        "image":,
+        "year":2020,
+        "info":"Subbaiah and his family live in abject poverty and a soothsayer tells them that their fortune will change overnight. The peace in the house is stirred when a stranger knocks on their door seeking shelter for a night, and the consequences are deadly."
     }
     {
         "id":16,
-        "name":"Fear street part two 1978",
-        "category_id":2,
-        "age":18,
-        "image":"https://i.ibb.co/GHQM39B/Fear-street-part-two-1978.jpg",
-        "year":2021,
+        "name":"trance",
+        "category_id":1,
+        "age":18+,
+        "image":,
+        "year":2020,
+        "info":" A motivational speaker's journey from rags to riches after he's hired as the face of a religious fraud to become a Miracle man in the name of God. With increasing popularity come the delusional waves of gloom, and he finds himself reaching a point of no return."
     }
     {
         "id":17,
-        "name":"Edge of tomarrow",
-        "category_id":2,
-        "age":16,
-        "image":"https://i.ibb.co/NmX4dxs/Edge-of-tomarrow.jpg" ,
-        "year":2014,
+        "name":"thellavarithe guruvaram",
+        "category_id":1,
+        "age":7+,
+        "image":,
+        "year":2021,
+        "info":"he story is about a couple who are on the verge of entering into wedlock the next morning. However, hours before their wedding, both of them plan to elope separately. The rest of the story is all about how their lives change over the night."
     }
     {
         "id":18,
-        "name":"Journey2 the mysterious island",
-        "category_id":2,
-        "age":13,
-        "image":"https://i.ibb.co/b71CVTS/Journey2-the-mysterious-island.jpg",
-        "year":2012,
+        "name":"forensic",
+        "category_id":1,
+        "age":16+,
+        "image":,
+        "year":2020,
+        "info":"A medico-legal advisor uses his forensic skills and uncovers evidence that leads to the killer's identity in a serial killing case."
     }
     {
         "id":19,
-        "name":"Jack the jaint slayer",
-        "category_id":2,
-        "age":16,
-        "image":"https://i.ibb.co/VBknd4p/Jack-the-jaint-slayer.jpg" ,
-        "year":2013,
+        "name":"krack",
+        "category_id":1,
+        "age":13,
+        "image":,
+        "year":2021,
+        "info":"When a most-wanted terrorist, a factionist, and a local goon locks horns with an honest cop Potharaju Veerashankar, little do they know that their lives will be changed forever."
     }
     {
         "id":20,
-        "name":"the mummy returns",
-        "category_id":2,
-        "age":13,
-        "image":"https://i.ibb.co/dPByqPQ/the-mummy-returns.jpg",
-        "year":2001,
+        "name":"nandhi",
+        "category_id":1,
+        "age":"16+",
+        "image":,
+        "year":2021,
+        "info":"Surya Prakash's life takes an unexpected turn when he is wrongly implicated in a murder case and serves prison as an undertrial for five years. When junior lawyer Aadhya enters his life as a ray of hope, the duo wages a legal battle."
     }
     {
         "id":21,
-        "name":"jumanji welcome to jungle",
-        "category_id":2,
-        "age":13,
-        "image":"https://i.ibb.co/TbMpbFP/jumanji-welcome-to-jungle.jpg",
-        "year":2017,
+        "name":"vijay sethupathi",
+        "category_id":1,
+        "age":13+,
+        "image":,
+        "year":2021,
+        "info":"An aspiring film actor locks horns with a ruthless businessman planning to build a factory in his village. The action-packed drama reaches a twist when his past is revealed."
     }
     {
         "id":22,
-        "name":"battleship",
-        "category_id":2,
-        "age":13,
-        "image":"https://i.ibb.co/X7yhsrk/battleship.jpg" ,
-        "year":2012,
+        "name":"khaidi",
+        "category_id":1,
+        "age":13+,
+        "image":,
+        "year":2019,
+        "info":"An ex-felon is finally out of prison to meet his daughter, but a twist in the circumstances leaves him in charge of saving unconscious police officers. He, along with Inspector Bejoy, must fight their way through betrayal to defeat the drug lord and emerge victoriously."
     }
     {
         "id":23,
-        "name":"sexlife",
-        "category_id":2,
-        "age":18,
-        "image":"https://i.ibb.co/DLdM1p8/sexlife.jpg" ,
-        "year":2021,
-    }
-]
-[
-    
-    {
-        "id":1,
-        "name":"crush landing on you",
-        "category_id":4,
-        "age":13,
+        "name":"ngk",
+        "category_id":1,
+        "age":16+,
         "image":,
         "year":2019,
+        "info":"The life-transforming circumstances faced by a social worker turned politician on the path to ensure the welfare of his people."
     }
     {
-        "id":2,
-        "name":"legend of the blue sea",
-        "category_id":4,
-        "age":13,
+        "id":24,
+        "name":"36 vayasulo",
+        "category_id":1,
+        "age":7+,
+        "image":,
+        "year":2015,
+        "info":"Enjoy 36 Vayasulo Full movie here : Vasanthi, a 36-year-old married woman, sacrifices her dreams and desires for her family. While a friend inspires her to rediscover her true self, she becomes an achiever and earns her family's respect."
+    }
+    {
+        "id":25,
+        "name":"hay pillagada",
+        "category_id":1,
+        "age":13+,
         "image":,
         "year":2016,
+        "info":"Enjoy Hey Pillagada full movie here... Siddarth is a short-tempered man who has problems with his wife, Anjali. Their life takes a turn when they get involved with a gangster."
     }
     {
-        "id":3,
-        "name":"tale of the nine tailed",
-        "category_id":4,
-        "age":13,
+        "id":26,
+        "name":"mental madhilo",
+        "category_id":1,
+        "age":7+,
         "image":,
-        "year":2020,
+        "year":2017,
+        "info":"Enjoy Mental Madhilo full movie here The confusing misadventures of a young man stuck in a love triangle with a difficult choice to make. Will he ever get out of his dilemma?"
     }
-    {
-        "id":4,
-        "name":"strong girl bong soon",
-        "category_id":4,
-        "age":17,
-        "image":,
-        "year":2013,
-    }
-    {
-        "id":5,
-        "name":"the 8th night",
-        "category_id":4,
-        "age":16,
-        "image":,
-        "year":2021,
-    }
-    {
-        "id":6,
-        "name":"boys over flowers",
-        "category_id":4,
-        "age":16,
-        "image":,
-        "year":2009,
-    }
-    {
-        "id":7,
-        "name":"its ok to not be ok",
-        "category_id":4,
-        "age":13,
-        "image":,
-        "year":2020,
-    }
-    {
-        "id":8,
-        "name":"the king ethernal monarch",
-        "category_id":4,
-        "age":16,
-        "image":,
-        "year":2020,
-    }
-    {
-        "id":9,
-        "name":"guardian",
-        "category_id":4,
-        "age":16,
-        "image":,
-        "year":2016,
-    }
-    {
-        "id":10,
-        "name":"hotel delluna",
-        "category_id":4,
-        "age":16,
-        "image":,
-        "year":2019,
-    }
-    {
-        "id":11,
-        "name":"never thelles",
-        "category_id":4,
-        "age":16,
-        "image":,
-        "year":2021,
-    }
-    {
-        "id":12,
-        "name":"whats wrong with secretary kim",
-        "category_id":4,
-        "age":16,
-        "image":,
-        "year":2018,
-    }
-    {
-        "id":13,
-        "name":"vincenzo",
-        "category_id":4,
-        "age":16,
-        "image":,
-        "year":2021,
-    }
-    {
-        "id":14,
-        "name":"hwarang",
-        "category_id":4,
-        "age":16,
-        "image":,
-        "year":2016,
-    }
-    {
-        "id":15,
-        "name":"docter stranger",
-        "category_id":4,
-        "age":18,
-        "image":,
-        "year":2014,
-    }
-
-]
-[
-    {
-       "id":1,
-       "name":"old guard",
-        "category_id": 3,
-        "age":18,
-        "image":,
-        "year":2021,
-    }
-    {
-        "id":2,
-        "name":"interstellar",
-         "category_id": 3,
-         "age":13,
-         "image":,
-         "year":2014,
-     }
-     {
-        "id":3,
-        "name":"the dark knight",
-         "category_id": 3,
-         "age":16,
-         "image":,
-         "year":2008,
-     }
-     {
-        "id":4,
-        "name":"deep impact",
-         "category_id": 3,
-         "age":13,
-         "image":,
-         "year":1998,
-     }
-     {
-        "id":5,
-        "name":"joker",
-         "category_id": 3,
-         "age":18,
-         "image":,
-         "year":2019,
-     }
-     {
-        "id":6,
-        "name":"the pursuit of happiness",
-         "category_id": 3,
-         "age":13,
-         "image":,
-         "year":2006,
-     }
-     {
-        "id":7,
-        "name":"cast away",
-         "category_id": 3,
-         "age":16,
-         "image":,
-         "year":2004,
-     }
-     {
-        "id":8,
-        "name":"gladiator",
-         "category_id": 3,
-         "age":16,
-         "image":,
-         "year":2000,
-     }
-     {
-        "id":9,
-        "name":"the dark knight rises",
-         "category_id": 3,
-         "age":13,
-         "image":,
-         "year":2012,
-     }
-     {
-        "id":10,
-        "name":"arrival",
-         "category_id": 3,
-         "age":13,
-         "image":,
-         "year":2016,
-     }
-     {
-        "id":11,
-        "name":"black hawk down",
-         "category_id": 3,
-         "age":18,
-         "image":,
-         "year":2001,
-     }
-     {
-        "id":12,
-        "name":"the equalizer",
-         "category_id": 3,
-         "age":18,
-         "image":,
-         "year":2014,
-     }
-     {
-        "id":13,
-        "name":"the shawshank redemption",
-         "category_id": 3,
-         "age":18,
-         "image":,
-         "year":1994,
-     }
-     {
-        "id":14,
-        "name":"american sniper",
-         "category_id": 3,
-         "age":16,
-         "image":,
-         "year":2014,
-     }
-     
-     {
-        "id":15,
-        "name":"the boy who harnessed the wind",
-         "category_id": 3,
-         "age":13,
-         "image":,
-         "year":2019,
-     }
-]
-[
-    {
-        "id":1,
-        "name":"fear street part three 1666",
-         "category_id": 5,
-         "age":18,
-         "image":,
-         "year":2021,
-     }
-     {
-        "id":2,
-        "name":"roohi",
-         "category_id": 5,
-         "age":16,
-         "image":,
-         "year":2021,
-     }
-     {
-        "id":3,
-        "name":"doom",
-         "category_id": 5,
-         "age":18,
-         "image":,
-         "year":2005,
-     }
-     {
-        "id":4,
-        "name":"bird box",
-         "category_id": 5,
-         "age":18,
-         "image":,
-         "year":2018,
-     }
-     {
-        "id":5,
-        "name":"inisdious chapter 2",
-         "category_id": 5,
-         "age":13,
-         "image":,
-         "year":2013,
-     }
-     {
-        "id":6,
-        "name":"insidious the last key",
-         "category_id": 5,
-         "age":16,
-         "image":,
-         "year":2021,
-     }
-     {
-        "id":7,
-        "name":"the ruins",
-         "category_id": 5,
-         "age":18,
-         "image":,
-         "year":2008,
-     }
-     {
-        "id":8,
-        "name":"madras cafe",
-         "category_id": 5,
-         "age":16,
-         "image":,
-         "year":2013,
-     }
-     {
-        "id":9,
-        "name":"don't breathe",
-         "category_id": 5,
-         "age":18,
-         "image":,
-         "year":2016,
-     }
-     {
-        "id":10,
-        "name":"zombieland",
-         "category_id": 5,
-         "age":18,
-         "image":,
-         "year":2009,
-     }
-     {
-        "id":11,
-        "name":"the 8th nigth",
-         "category_id": 5,
-         "age":16,
-         "image":,
-         "year":2021,
-     }
-     {
-        "id":12,
-        "name":"aaviri",
-         "category_id": 5,
-         "age":13,
-         "image":,
-         "year":2019,
-     }
-     {
-        "id":13,
-        "name":"the purge anarchy",
-         "category_id": 5,
-         "age":18,
-         "image":,
-         "year":2014,
-     }
-     {
-        "id":14,
-        "name":"cargo",
-         "category_id": 5,
-         "age":18,
-         "image":,
-         "year":2018,
-     }
-     {
-        "id":15,
-        "name":"mom",
-         "category_id": 5,
-         "age":16,
-         "image":,
-         "year":2017,
-     }
-]
-[
-    {
-        "id":1,
-        "name":"snowpiercer",
-         "category_id":6 ,
-         "age":18,
-         "image":,
-         "year":2021,
-     }
-     {
-        "id":2,
-        "name":"chappie",
-         "category_id": 6,
-         "age":16,
-         "image":,
-         "year":2015,
-     }
-     {
-        "id":3,
-        "name":"passengers",
-         "category_id": 6,
-         "age":13,
-         "image":,
-         "year":2016,
-     }
-     {
-        "id":4,
-        "name":"outsider the wire",
-         "category_id": 6,
-         "age":18,
-         "image":,
-         "year":2021,
-     }
-     {
-        "id":5,
-        "name":"star trek discovery",
-         "category_id": 6,
-         "age":16,
-         "image":,
-         "year":2020,
-     }
-     {
-        "id":6,
-        "name":"madmax2 the road warrior",
-         "category_id": 6,
-         "age":18,
-         "image":,
-         "year":1981,
-     }
-     {
-        "id":7,
-        "name":"away",
-         "category_id": 6,
-         "age":18,
-         "image":,
-         "year":2019,
-     }
-     {
-        "id":8,
-        "name":"the i-land",
-         "category_id": 6,
-         "age":18,
-         "image":,
-         "year":2019,
-     }
-     {
-        "id":9,
-        "name":"revolt",
-         "category_id": 6,
-         "age":16,
-         "image":,
-         "year":2017,
-     }
-     {
-        "id":10,
-        "name":"the wandering earth",
-         "category_id": 6,
-         "age":16,
-         "image":,
-         "year":2019,
-     }
-     {
-        "id":11,
-        "name":"space sweepers",
-         "category_id": 6,
-         "age":16,
-         "image":,
-         "year":2021,
-     }
-     {
-        "id":12,
-        "name":"tribes of europa",
-         "category_id": 6,
-         "age":18,
-         "image":,
-         "year":2021,
-     }
-     {
-        "id":13,
-        "name":"ender's game",
-         "category_id": 6,
-         "age":16,
-         "image":,
-         "year":2013,
-     }
-     {
-        "id":14,
-        "name":"pacific rim the black",
-         "category_id": 6,
-         "age":16,
-         "image":,
-         "year":2021,
-     }
-     {
-        "id":15,
-        "name":"inception",
-         "category_id": 6,
-         "age":16,
-         "image":,
-         "year":2010,
-     }
 ]
