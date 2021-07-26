@@ -1,3 +1,5 @@
+                            //----------aha---------//
+                            //------category_id:1-------//
 [
     {
         "id": 1,
@@ -223,5 +225,218 @@
         "image":"https://i.ibb.co/QN1zZKw/mental-madhilo.jpg"‚,
         "year":2017,
         "info":"Enjoy Mental Madhilo full movie here The confusing misadventures of a young man stuck in a love triangle with a difficult choice to make. Will he ever get out of his dilemma?"
+    }
+]
+                                    //------------category_id:2----------//
+
+[
+    {
+        "id":1,
+        "name":"Aha Bhojanambu",
+        "category_id":2,
+        "age":7+,
+        "image":"https://i.ibb.co/q7m5vZT/Aha-Bhojanambu.jpg",
+        "year":2021,
+        "info":"An exciting talk show with a rare mix of nostalgic conversations, in the backdrop of Mouth watering Food...Meet Lakshmi, the host interacting with various celebs, exploring their cooking skills, in her own amusing way, taking us all down the memory lane !",
+
+    }
+    {
+        "id":2,
+        "name":"Kudi Yedamaithe",
+        "category_id":2,
+        "age":16+,
+        "image":"https://i.ibb.co/XbVzjBD/Kudi-Yedamaithe.jpg",
+        "year":2021,
+        "info":"A Food Delivery Guy, who finds a bloody corpse of a young woman in the middle of a night & A Female Police Inspector investigating a missing child's case collide into each other as they meet with a fatal accident, which sends both of them into a Never ending time loop until they figure out an Unimaginable way out of it.",
+
+    }
+    {
+        "id":3,
+        "name":"in the name of god",
+        "category_id":2,
+        "age":18+,
+        "image":"https://i.ibb.co/Jj7pdqx/in-the-name-of-god.jpg" ,
+        "year":2021,
+        "info":"Love, Lust, Freedom, Greed, Beauty what drives people to do unimaginable things? What provokes them to shed Blood? Press the play button for a shocking tale.",
+
+    }
+    {
+        "id":4,
+        "name":"sam jam",
+        "category_id":2,
+        "age":7+,
+        "image":"https://i.ibb.co/JjxRyCP/sam-jam.jpg",
+        "year":2021,
+        "info":"Sam Jam is a happy and fun-filled talk show hosted by our favorite actress Samantha in her style. This show features celebrity interviews, fun games, spotlights some inspiring real-life stories and talent, and indulges in philanthropy activities.",
+
+    }
+    {
+        "id":5,
+        "name":"anaganaga o athidhi",
+        "category_id":2,
+        "age":16+,
+        "image":"https://i.ibb.co/F5bSVRY/anaganaga-o-athidhi.jpg" ,
+        "year":2020,
+        "info":"Subbaiah and his family live in abject poverty and a soothsayer tells them that their fortune will change overnight. The peace in the house is stirred when a stranger knocks on their door seeking shelter for a night, and the consequences are deadly."
+    }
+    {
+        "id":6,
+        "name":"sin",
+        "category_id":2,
+        "age":18+,
+        "image":"https://i.ibb.co/G5nVkvm/sin.jpg",
+        "year":2020,
+        "info":"aught in an emotional turmoil over an abusive marriage and husband's extramarital affair, will a woman's love triumph over a man's lust? Inspired by the series “Hello” on Hoichoi, A story that hugs your heart."
+    }
+    {
+        "id":7,
+        "name":"locked",
+        "category_id":2,
+        "age":16+,
+        "image":"https://i.ibb.co/ykr7fHH/locked.jpg",
+        "year":2020,
+        "info":"A man who is not who he claims to be, two robbers and a few uninvited guests, all trapped and locked in a mansion. With the mastermind always a step ahead and sinister occurrences, will they survive this journey that is sure to leave even the brave ones trembling?",
+
+    }
+    {
+        "id":8,
+        "name":"mail",
+        "category_id":2,
+        "age":12+,
+        "image":"https://i.ibb.co/3vhBfg6/mail.jpg",
+        "year":2021,
+        "info":"Fascinated by the world of computers and the internet, an innocent 18-year-old Ravi feels elated when a fellow villager Hybath opens a gaming centre. Soon, an email unfurls a series of unexpected events stirring life-altering experiences.
+        ",
+
+    }
+    {
+        "id":9,
+        "name":"11th hour",
+        "category_id":2,
+        "age":13+,
+        "image":"https://i.ibb.co/zGQSKNw/11th-hour.jpg",
+        "year":2021,
+        "info":"She’s a woman trying to conquer a man’s world! Will Aratrika win the biggest fight of her life?",
+
+    }
+    {
+        "id":10,
+        "name":"getha subramanyam 2020",
+        "category_id":2,
+        "age":7+,
+        "image":"https://i.ibb.co/HTrhNsm/geetha-subramanyam.jpg",
+        "year":2020,
+        "info":"Geeta Subramanyam is a new-age romance comedy that explores the story of Geetha and Subramanyam, a couple in a live-in relationship. Their constant bickering and cutesy fights make for an endearing and engaging watch that evokes fun. The story explores how over time, they realize that they are made for each other.",
+
+    }
+    {
+        "id":11,
+        "name":"commit mental",
+        "category_id":2,
+        "age":7+,
+        "image":"https://i.ibb.co/FhTkJS6/commit-mental.jpg",
+        "year":2020,
+        "info":"A three-year long-distance relationship between Phani and Anu takes an unexpected twist when he asks her to marry him. While their journey has many highs, lows and bittersweet experiences, will this bumpy ride bring them closer?",
+
+    }
+    {
+        "id":12,
+        "name":"super over",
+        "category_id":2,
+        "age":7+,
+        "image":"https://i.ibb.co/yYtjrDm/super-over.jpg",
+        "year":2021,
+        "info":"Luck favours Kaasi and his friends in cricket betting but soon lands them in inevitable trouble. What follows is a chase with unforeseen events and turns, leading to an unprecedented ending.
+        ",
+
+    }
+    {
+        "id":13,
+        "name":"ARDHA SHATHABDHAM",
+        "category_id":2,
+        "age":16+,
+        "image":"https://i.ibb.co/y8pHyYd/ARDHA-SHATHABDHAM.jpg",
+        "year":2021,
+        "info":"Enjoy Ardha Shathabdham full movie here : After five decades of Independence, India's rural landscape still throws up unanswerable questions. Can a love story bring a revolution? Witness this earthy love story set in the early 2000s",
+
+    }
+    {
+        "id":14,
+        "name":"Tamasha with Harsha",
+        "category_id":2,
+        "age":7+,
+        "image":"https://i.ibb.co/0q9pfN1/Tamasha-with-Harsha.jpg" ,
+        "year":2020,
+        "info":"Harsha is all geared to give you a laugh-out-loud dose of tamasha as he interacts with celebs and roasts them savagely and hilariously. High on energy, fun banter, and in his style, it's going to be a laugh riot. Check out what's burning! New episodes every Friday!",
+
+    }
+    {
+        "id":15,
+        "name":"Addham",
+        "category_id":2,
+        "age":13+,
+        "image":"https://i.ibb.co/fChVf9v/Addham.jpg",
+        "year":2020,
+        "info":"Moral conflicts, life altering decisions and contrasting situations converge in this three tale anthology revolving around the idea that "Morality is a changing goalpost"",
+
+    }
+    {
+        "id":16,
+        "name":"Mastis",
+        "category_id":2,
+        "age":16+,
+        "image":"https://i.ibb.co/Pt605gd/mastis.jpg",
+        "year":2020,
+        "info":"Sexual Content | Masti's, created by Krish Jagarlamudi, Weaves a riveting tale around six people from contrasting worlds discovering love and friendship while navigating through various pitfalls of work and life",
+
+    }
+    {
+        "id":17,
+        "name":"Kotha Poradu",
+        "category_id":2,
+        "age":13+,
+        "image":"https://i.ibb.co/0sLT0nZ/Kotha-Poradu.jpg",
+        "year":2020,
+        "info":"This story revolves around Raju, a care-free village guy who is new to the city. While his struggle seems to be never-ending, fate has a different plan in store for him. Watch Kothaporadu and know more about his journey.",
+
+    }
+    {
+        "id":18,
+        "name":"Shit Happens",
+        "category_id":2,
+        "age":13+,
+        "image":"https://i.ibb.co/Jr6MSNz/shit-happnes.jpg",
+        "year":2020,
+        "info":"Unable to take the constant humiliation from collegemates who call them Dry Batch, three friends – Harsha, Sameer and Sathvik – hire a hooker to prove their cool quotient. Things take an unexpected turn when she dies in their house. What transpires is a series of twists, turns and failed attempts at covering their tracks.",
+    }
+    {
+        "id":19,
+        "name":"all is well",
+        "category_id":2,
+        "age":7+,
+        "image":"https://i.ibb.co/jH2txGL/all-is-well.jpg",
+        "year":2020,
+        "info":"Sending bright smiles and positive vibes your way, All is well is a talk show hosted by Suma Kanakala, where she interacts with various celebrities and maintains an entertaining tenor while highlighting all the good news from around the world.",
+
+    }
+    {
+        "id":20,
+        "name":"honey moon",
+        "category_id":2,
+        "age":13+,
+        "image":"https://i.ibb.co/CQv0Bmr/honeymoon.jpg",
+        "year":2020,
+        "info":"After consenting to an arranged marriage, Praveen and Tejaswini embark on a journey filled with unexpected events and galore of emotions, and their unplanned honeymoon turns out to be the best decision ever.",
+
+    }
+    {
+        "id":21,
+        "name":"no 1 yari with rana",
+        "category_id":2,
+        "age":7+,
+        "image":"https://i.ibb.co/TcWjsQS/no1-yari-rana.jpg" ,
+        "year":2020,
+        "info":"It's time to celebrate Yaari again! The most favourite Telugu talk-show 'No.1 Yaari with Rana' is back with a brand new season.",
+
     }
 ]
